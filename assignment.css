@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box1{
+    margin: 20px;
+    padding: 10px;
+    border: solid 4px black;
+    background-color: white;
+    width: 400px;
+    height: 200px;
+}
+
+.box2{
+    margin: 15px;
+    padding: 15px;
+    background-color: blue;
+    width: 320px;
+    height: 90px;
+}
+
+.box3{
+    margin: 10px;
+    padding: 10px;
+    background-color: yellow;
+    width: 270px;
+    height: 40px;
+}
