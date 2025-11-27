@@ -24,12 +24,12 @@
 }
 
 .productCard{
-    border: 1px solid #ccc;
     border-radius: 5px;
-    padding: 16px;
+    background: white;
     text-align: center;
-    width: 300px;
+    width: 380px;
     margin: 20px auto;
+    padding: 16px;
     font-family: Arial, sans-serif;
 }
 
@@ -44,8 +44,8 @@
 }
 
 #productImage{
-    width: 265px;
-    height: 200px;
+    width: 330px;
+    height: 205px;
     margin-bottom: 15px;
 }   
 
