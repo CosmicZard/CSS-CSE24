@@ -26,7 +26,7 @@
 .productCard{
     border-radius: 5px;
     background: white;
-    text-align: center;
+    text-align: left;
     width: 380px;
     margin: 20px auto;
     padding: 16px;
@@ -44,7 +44,7 @@
 }
 
 #productImage{
-    width: 330px;
+    width: 345px;
     height: 205px;
     margin-bottom: 15px;
 }   
@@ -52,19 +52,20 @@
 #btn{
     background-color: blue;
     color: white;
-    padding: 10px 95px;
+    padding: 10px 140px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
 }
 
 #price{
-    font-size: 22px;
+    font-size: medium;
     color: green;
     font-weight: bold;
     margin-bottom: 10px;
 }
 
 #strike{
+    font-size: medium;
     color: gray;
 }
